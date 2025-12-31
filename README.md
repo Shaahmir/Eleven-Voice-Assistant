@@ -1,4 +1,4 @@
-# Eleven – Voice Assistant (Python)
+# Eleven – A Voice Assistant
 
 A **Voice Assistant** built with Python that listens to your voice commands and performs practical tasks on your computer. Eleven can **open desktop applications**, **launch websites in Chrome**, **take screenshots**, and **search queries on Google or YouTube**. Experience quick computing and control your system naturally using just your voice.
 
@@ -19,16 +19,16 @@ A **Voice Assistant** built with Python that listens to your voice commands and 
 
 ## Command Logic
 
-Eleven responds to predefined commands such as:
+Eleven responds to commands such as:
 
 ```text
-- "Open Chrome"
+- "Open Chrome or any other app"
 - "Open Google and search Python tutorials"
 - "Open YouTube and search music videos"
 - "Take screenshot"
 - "What is the time?"
 - "What is today's date?"
-- Greetings: "Hello", "Hi", "Assalam", etc.
+- Greetings: "Hello", "Hi", "Assalam o Allaikum", etc.
 ```
 
 ---
