@@ -66,7 +66,7 @@ This project uses the following Python libraries:
 Install all required dependencies:
 
 ```bash
-pip install pyttsx3 SpeechRecognition pillow
+pip install pyttsx3 SpeechRecognition pywhatkit pyautogui
 ```
 
 ## Run the Project
